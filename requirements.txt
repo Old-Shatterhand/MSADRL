@@ -1,0 +1,6 @@
+numpy~=1.19.2
+torch~=1.4.0
+matplotlib~=3.3.2
+prettytable~=0.7.2
+
+pandas~=1.0.3

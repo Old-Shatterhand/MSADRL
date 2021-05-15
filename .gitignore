@@ -1,0 +1,17 @@
+# Folder
+__pycache__/
+agent/__pycache__/
+networks/__pycache__/
+utils/__pycache__/
+plots/
+results/*
+.idea
+
+# Files
+tests/TableConfigs.txt
+tests/ValueConfigs.txt
+tests/PolicyConfigs.txt
+tests/ActorCriticConfigs.txt
+tests/MCTSConfigs.txt
+*.pyh
+*.pyc
